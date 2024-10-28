@@ -37,7 +37,7 @@ The project consists of several steps:
 
 1. **Requirements:** Ensure you have the pandas library installed.
 
-2. **Download Data:** Download the data from Kaggle and place the CSV file in your project folder.
+2. **Download Data:** Download the data from Kaggle and place the CSV file in your project folder. Download NBA_court file and place it in your project folder.
 
 3. **Run Analysis:** Run the scripts in the recommended order, starting with data import and ending with conclusions.
 
